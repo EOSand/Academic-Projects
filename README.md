@@ -1,10 +1,38 @@
 # Elijah Sanderson Academic Portolio
 
+# [Ongoing - Constraints on Maximal Entanglement Under Groups of Permutations](https://arxiv.org/abs/2011.14507)
+We provide a simplified characterization of entanglement in physical systems which are symmetric under the action of subgroups of the symmetric group acting on the party labels. Sets of entanglements are inherently equal, lying in the same orbit under the group action, which we demonstrate for cyclic, dihedral, and polyhedral groups. We then introduce new, generalized relationships for the maxima of those entanglement by exploiting the normalizer and normal subgroups of the physical symmetry group.
+
+This paper was submitted to the arXiv for review in November of 2020, and is currently awaiting submission to _Physical Review A_.
+
+# [08/2021 - Derivation of a Wave Function for Quantum Gravitation in 2-D](https://github.com/EOSand/Academic-Projects/blob/master/Liberatore_Sanderson_Poster.pdf)
+Quantum gravity is an active field of research, and thus we still utilize a variety of analytic solutions to find the metric _g_ for a given distribution of matter and energy, which is a solution to Einstein’s equations. We use a probability amplitude _Ψ_ which is a function of the space-like portion of _g_. This poster provides an overview of the research we have been conducting on the subject. In particular, we have focused on calculating complex integrals for possible wave functions and normalizing successfully calculated wave functions.
+
+This poster was submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Applied Mathematics at WIT in August of 2021.
+
+# [12/2020 - Modern Algebra in Modern Music: Understanding sound through a methematica lens](https://github.com/EOSand/Academic-Projects/blob/master/Modern_Algebra_Music.pdf)
+Since its dawn, music has been a staple of every culture and every civilization, both consisting of humans and non-humans. Every musical genre can be primarily associated with specific cultures and each culture has its own primary genre and style; western music has different stylistic and modal properties than those of eastern music. Despite these distinctions, and as our society progressed into the twentieth and twenty-first centuries, we have begun to have access to many different genres, styles, and rhythms from nearly every culture via the internet. Now, anyone can explore and dive into any kind of music from anywhere in the world. Although the art of music is incredibly widespread and vast, the physical and mathematical mechanics behind the phenomenon are not completely understood by the average person. The aim of this paper is to explore both the linear algebra and further analysis behind the mechanics of sound in a concise, coherent way. Hopefully, after reading paper one will have a much clearer and formal understanding of the topics presented. 
+
+This paper was submitted as a final assignment for Math 390 at Simmons University in December of 2020.
+
+# [12/2019 - Fermat Numbers, Goldbach’s Theorem, and the Infinitude of Primes](https://github.com/EOSand/Academic-Projects/blob/master/Fermat_Numbers_Poster.pdf)
+This expository project analyzes the fundamentals of Fermat numbers, including special properties, Goldbach's theorem, and a proof that there
+are infinitely many primes.
+
+This poster was submitted as a final assignment for MATH 2550 at WIT in December of 2019.
+
+# [12/2019 - Free Groups](https://github.com/EOSand/Academic-Projects/blob/master/Free_Groups.pdf)
+First studied in 1924, a free group _F_S_ is a type of group that is considered to be free of relations. That is, it is constructed by a set 
+of elements from a group _G_, denoted _S_ and its inverse set, _S<sup>-1</sup>_ in such a way that _F_S_/_N_ = _G_ where _N_ is a normal 
+subgroup of _F_S_. Free groups have applications in group theory, category theory, topology, and other areas of mathematics.
+
+This paper was submitted as a final assignment for MATH 4400 at WIT in December of 2019.
+
 # [05/2019 - Java Periodic Table]()
 This Java program provides the user with an interactive periodic table which contains relevant data on each element. Atomic number, mass,
-critical points, desnity, phase, category, radioactivity, and links to Wikipedia articles are included. 
+critical points, desnity, phase, category, radioactivity, and links to Wikipedia articles are included.
 
-![](/images/Periodic_table.png)
+![](/images/Periodic_Table.png)
 
 # [12/2018 - SIR Model Using Vaccinations](https://github.com/EOSand/Academic-Projects/blob/master/SIR_with_Vaccinations.pdf)
 In this paper we take the standard SIR model one step further and introduce a vaccination rate to measure the effects it has on the model.
@@ -13,13 +41,13 @@ disease length. Our work aimed to introduce a vaccination rate and study it's af
 introduced a daily vaccination rate of 15% which would be applied to susceptible individuals and cause the patient to become immune after 
 three days.
 
-This report was submitted as a final paper for MATH 1550 at WIT
+This report was submitted as a final paper for MATH 1550 at WIT in December of 2018.
 
 # [10/2018 - Deflection of an electric beam](https://github.com/EOSand/Academic-Projects/blob/master/Deflection_of_an_Electric_Beam.pdf)
 This investigation aims to measure the deflection of an electron beam as it passes between a set of parallel charged plates. Using this 
 measurement, we will be able to determine the electric field strength between the plates.
 
-This report was submitted as a final paper for MATH 1750 at WIT.
+This report was submitted as a final paper for MATH 1750 at WIT in October of 2018.
 
 # [05/2018 - Optimization: A method to expand binomials raised to the nth power](https://github.com/EOSand/Academic-Projects/blob/master/Math_IA.pdf)
 This investigation aims to find another way to express a binomial without using the binomial expansion. In other words, given a binomial with
@@ -36,58 +64,3 @@ We notice that the equation for the launch angle of a given projectile, required
 and conduct an experiment to nearly understand which physical property the resulting quadratic equation describes. 
 
 This project was submitted as a final assessment for IB HL Physics in May of 2018.
-
-
-# [Project 1: US Senate Committees](https://github.com/liberatorea94/US-Senate-Committees)
-Created by AJ Liberatore (liberatorea94@gmail.com) and Jayden Butts (buttsj@wit.edu). This project had a focus on data collection and data visualization.
-
-## Summary
-Created a Tableau story to illustrate the interconnectedness of the US Senate, as well as to illustrate issues with diversity. This was accomplished with:
-* Tableau to create an interactive dashboard, allowing users to explore demographics of specific committees compared to the US as a whole
-* Tableau Story to create a story with points to guide user through how the dashboard works, as well as the technicality of the network visualization
-* Pandas and Numpy to organize and clean Senate committee data so that it may be used in Gephi
-* Gephi to create a network illustrating the interconnected nature of the Senate, where nodes are committees and edges are shared members, weighted by quantity of members
-
-## Visualizations
-
-The Tableau dashboard provides insight into Senate demographics compared to the US as a whole, contains bios for each Senator in the 116th US Congress, and most importantly allows the user to dig in and come to their own conclusions. Below is a screenshot of the dashboard.
-
-![](/images/Committee_Dashboard1.png)
-
-Each dot is scaled based on the number of committees and seat of power a Senator holds, and are colored based on their identified party. If the user wishes to view the demographics of a specific group of committees, they may go to the middle of the dashboard and select up to 10 committees they wish to view.
-
-My main work in this project was in collecting and cleaning the Senate committee data in order to create out network visualization, as well as assembling the story in Tableau. Below is the network visualization itself.
-
-![](/images/Committee_Network.png)
-
-Though the viz contains some technical jargon, the story specifies the following:
-* There are 136 possible pairs of committees
-* There is an average of almost 4 Senators shared among any two committees
-* There are only 12 committee pairs which do not share a Senator
-* 91% of committee pairs share at least one Senator
-* The average committee shares a Senator with over 14 other committees
-
-## Data
-The data we used was collected from two places. We used the [demographics and economy section of the Kaiser Family Foundation website](https://www.kff.org/state-category/demographics-and-the-economy/) for up to date US demographics, and we used the [US Senate website](https://www.senate.gov/reference/stats_and_lists.htm) to collect information about Senators and committees.
-
-# [Project 2: PCA Effects on Training Handwritten Digit Classifier](https://github.com/lees19atwit/DS-Final)
-Created by Sunny Lee (lees19@wit.edu) and AJ Liberatore (liberatorea94@gmail.com). This project had a focus on dimensionality reduction and classification.
-
-## Summary
-The objective of this project was to analyze the effects of dimensionality reduction on training neural networks, specifically to see the effects of PCA dimensionality reduction on a MLPClassifier for recognizing handwritten digits and how dimensionality reduction can help with saving both memory and computation time. 
-
-## Results
-After utilizing PCA, it was recognized that the first 100 components captured quite a lot of variance over the entire training set. Below is a graph of the variance against the number of components.
-
-![](/images/variance.png)
-
-Using a reverse transform, we can intuitively see that the first 100 components give a good approximation to the original dataset.
-
-![](/images/mnistreduced.png)
-
-When we used the reduced train and test set, we achieved an accuracy of 95.95% in about 18 seconds while the original train and test set achieved an accuracy of 96.15% in about 64 seconds.
-
-## Data
-We used the MNIST Handwritten data set imported with Keras. MNIST comes with 60,000 samples of 28x28 handwritten digits and an additional 10,000 samples as training data. Here are 100 samples of the training data set:
-
-![](/images/mnist.png)
