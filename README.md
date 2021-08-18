@@ -11,7 +11,7 @@ Quantum gravity is an active field of research, and thus we still utilize a vari
 
 This poster was submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Applied Mathematics at WIT in August of 2021.
 
-# [12/2020 - Modern Algebra in Modern Music: Understanding sound through a methematica lens](https://github.com/EOSand/Academic-Projects/blob/master/Modern_Algebra_Music.pdf)
+# [12/2020 - Modern Algebra in Modern Music: Understanding sound through a methematical lens](https://github.com/EOSand/Academic-Projects/blob/master/Modern_Algebra_Music.pdf)
 Since its dawn, music has been a staple of every culture and every civilization, both consisting of humans and non-humans. Every musical genre can be primarily associated with specific cultures and each culture has its own primary genre and style; western music has different stylistic and modal properties than those of eastern music. Despite these distinctions, and as our society progressed into the twentieth and twenty-first centuries, we have begun to have access to many different genres, styles, and rhythms from nearly every culture via the internet. Now, anyone can explore and dive into any kind of music from anywhere in the world. Although the art of music is incredibly widespread and vast, the physical and mathematical mechanics behind the phenomenon are not completely understood by the average person. The aim of this paper is to explore both the linear algebra and further analysis behind the mechanics of sound in a concise, coherent way. Hopefully, after reading paper one will have a much clearer and formal understanding of the topics presented. 
 
 This paper was submitted as a final assignment for Math 390 at Simmons University in December of 2020.
