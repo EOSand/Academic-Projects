@@ -31,7 +31,7 @@ This paper was submitted as a final assignment for MATH 4400 at WIT in December 
 
 # [05/2019 - Java Periodic Table]()
 This Java program provides the user with an interactive periodic table which contains relevant data on each element. Atomic number, mass,
-critical points, desnity, phase, category, radioactivity, and links to Wikipedia articles are included.
+critical points, density, phase, category, radioactivity, and links to Wikipedia articles are included.
 
 ![](/images/Periodic_Table.png)
 
