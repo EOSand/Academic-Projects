@@ -1,5 +1,5 @@
 # Elijah Sanderson Academic Portfolio
-An academic portfolio throught Sanderson's academic career. A curriculum vitae (CV) can be found [here](https://github.com/EOSand/Academic-Projects/blob/master/Eli_CV__May_2021_.pdf), and his LinkedIn profile can be found [here](https://www.linkedin.com/in/elijah-sanderson-281624195/).
+An academic portfolio throughout Sanderson's academic career. A curriculum vitae (CV) can be found [here](https://github.com/EOSand/Academic-Projects/blob/master/Eli_CV__May_2021_.pdf), and his LinkedIn profile can be found [here](https://www.linkedin.com/in/elijah-sanderson-281624195/).
 
 # [Ongoing - Constraints on Maximal Entanglement Under Groups of Permutations](https://arxiv.org/abs/2011.14507)
 We provide a simplified characterization of entanglement in physical systems which are symmetric under the action of subgroups of the symmetric group acting on the party labels. Sets of entanglements are inherently equal, lying in the same orbit under the group action, which we demonstrate for cyclic, dihedral, and polyhedral groups. We then introduce new, generalized relationships for the maxima of those entanglement by exploiting the normalizer and normal subgroups of the physical symmetry group.
