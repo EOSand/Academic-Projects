@@ -6,6 +6,11 @@ We provide a simplified characterization of entanglement in physical systems whi
 
 This paper was submitted to the arXiv for review in November of 2020, and is currently awaiting submission to _Physical Review A_.
 
+# [12/2021 Compression of Large Images via the Random Singular Value Decomposition](https://github.com/EOSand/Academic-Projects/blob/master/rSVD_presentation.pdf)
+This project aims to compare the performance of four randomized singular value decomposition algorithms on very large grayscale images, roughly 6000 pixels by 4000 pixels in dimensions. We first outline the mathematics of our initial rSVD algorithm and employ two techniques, oversampling and power iteration, to form our other algorithms. We score the scripts based on two criteria, namely time complexity and error complexity, to determine which form of modified rSVD is 'most' efficient. Subsequently, we elect one of these algorithms in attempt to compress color images, specifically RGB, by performing the rSVD on each color channel, recomposing the image, and then analyzing the results.
+
+This presentation was submitted as a final assignment for Math 123 at Tufts University in December of 2021.
+
 # [08/2021 - Derivation of a Wave Function for Quantum Gravitation in 2-D](https://github.com/EOSand/Academic-Projects/blob/master/Liberatore_Sanderson_Poster.pdf)
 Quantum gravity is an active field of research, and thus we still utilize a variety of analytic solutions to find the metric _g_ for a given distribution of matter and energy, which is a solution to Einstein’s equations. We use a probability amplitude _Ψ_ which is a function of the space-like portion of _g_. This poster provides an overview of the research we have been conducting on the subject. In particular, we have focused on calculating complex integrals for possible wave functions and normalizing successfully calculated wave functions.
 
